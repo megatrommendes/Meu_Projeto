@@ -1,0 +1,3 @@
+Live Server;
+
+Servidor de Desenvolvimento Local: A extensão Live Server permite que você inicie um servidor de desenvolvimento local diretamente do VSCode. Isso é extremamente útil para testar seu código HTML, CSS e JavaScript em tempo real no navegador sem a necessidade de configurar um servidor separado. É uma maneira eficaz de verificar como seu projeto web será exibido na web real.
