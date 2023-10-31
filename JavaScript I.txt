@@ -1,0 +1,1 @@
+Captura de Eventos de Cliques: Quando o usuário clica no botão "Login" na página de login do Google, o JavaScript detecta esse evento. Isso geralmente é feito usando um ouvinte de evento que aguarda o clique no botão.
